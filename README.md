@@ -35,13 +35,7 @@
 - [三个 AI，各司其职，之间不允许对话](https://twilightrain.pages.dev) —— 代码审查工作流探索
 - [BiliCompact 完整复盘](https://twilightrain.pages.dev) —— 动机、设计、技术
 - [仿冒网站维权实录](https://twilightrain.pages.dev) —— 从发现到报案
-
----
-
-#### 📊 最近一年
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TwilightRainDev&show_icons=true&theme=dark)
-
+- 
 ---
 
 #### 💬 一句
