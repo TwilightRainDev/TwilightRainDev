@@ -14,7 +14,7 @@
 - 🔭 最近在折腾：Android 时间追踪 App、B站用户脚本、Windows 文本工具
 - 🌱 正在学：Kotlin、.NET 8、以及如何不把天聊死
 - 🤔 最近在想：为什么我要演奏春日影
-- 📫 找到我：[Blog](https://twilightrain.pages.dev) · [Greasy Fork](https://greasyfork.org/zh-CN/users/1222440-twilightrain)
+- 📫 找到我：[Blog](https://twilightrain.pages.dev) · [Greasy Fork](https://greasyfork.org/zh-CN/users/1620234-twilightraindev) · [Bilibili uid](https://space.bilibili.com/326824)
 
 ---
 
