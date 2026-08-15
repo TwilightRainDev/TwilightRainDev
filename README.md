@@ -1,16 +1,53 @@
-## Hi there 👋
+### 🌧️ TwilightRain
 
-<!--
-**TwilightRainDev/TwilightRainDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 家里蹲的说，不是楠酿！
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/TwilightRainDev)](https://github.com/TwilightRainDev)
+[![Blog](https://img.shields.io/badge/Blog-twilightrain.pages.dev-blue)](https://twilightrain.pages.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🎸 关于我
+
+一个写代码的，偶尔也写点字。
+
+- 🔭 最近在折腾：Android 时间追踪 App、B站用户脚本、Windows 文本工具
+- 🌱 正在学：Kotlin、.NET 8、以及如何不把天聊死
+- 🤔 最近在想：为什么我要演奏春日影
+- 📫 找到我：[Blog](https://twilightrain.pages.dev) · [Greasy Fork](https://greasyfork.org/zh-CN/users/1222440-twilightrain)
+
+---
+
+#### 🛠️ 我写的东西
+
+| 项目 | 简介 | 技术 |
+|------|------|------|
+| [**BiliCompact**](https://github.com/TwilightRainDev/TwilightRainBiliCompact) | B站首页精简用户脚本，支持数量限制、智能过滤、评论屏蔽、收藏夹重命名 | JavaScript / Tampermonkey |
+| [**TimeTrack**](https://github.com/TwilightRainDev/TwilightRainTimeTrack) | 手机使用时间追踪，GitHub 式热力图，数据全本地 | Kotlin / Android |
+| [**TextTool**](https://github.com/TwilightRainDev/TwilightRainTextTool) | Windows 文本处理工具：行合并、文件拼接、中文截断修复 | C# / .NET 8 WinForms |
+| [**HowToAskQue**](https://github.com/TwilightRainDev/HowToAskQue) | 《提问的智慧》中文 2026 版 | Markdown |
+| [**TwilightRain**](https://github.com/TwilightRainDev/TwilightRain) | 个人博客源码 | Hexo / Cloudflare Pages |
+
+---
+
+#### 📝 最近在写
+
+- [三个 AI，各司其职，之间不允许对话](https://twilightrain.pages.dev) —— 代码审查工作流探索
+- [BiliCompact 完整复盘](https://twilightrain.pages.dev) —— 动机、设计、技术
+- [仿冒网站维权实录](https://twilightrain.pages.dev) —— 从发现到报案
+
+---
+
+#### 📊 最近一年
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TwilightRainDev&show_icons=true&theme=dark)
+
+---
+
+#### 💬 一句
+
+> 我勿惧发疯。我已经彻底疯了。不行了，我得再去溜一遍……
+
+---
+
+*“过去软弱的小祥，已经死了，那我也要死吗？”——不，写代码吧。*
