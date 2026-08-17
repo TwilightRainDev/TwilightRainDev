@@ -15,6 +15,7 @@
 - 🌱 正在学：Kotlin、.NET 8、以及如何不把天聊死
 - 🤔 最近在想：为什么我要演奏春日影
 - 📫 找到我：[Blog](https://twilightrain.pages.dev) · [Greasy Fork](https://greasyfork.org/zh-CN/users/1620234-twilightraindev) · [Bilibili uid](https://space.bilibili.com/326824)
+- 📚 写的书：[文青病十级](www.ciweimao.com/book/100496224)
 
 ---
 
