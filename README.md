@@ -32,7 +32,7 @@
 
 #### 最近在写
 
-<img src="Okay.gif" alt="All correct" width="10%" align="right" hspace="15" vspace="10">
+<img src="Oblivionis.png" alt="とがわ_さきこ" width="10%" align="right" hspace="15" vspace="10">
 
 - [三个 AI，各司其职，之间不允许对话](https://twilightrain.pages.dev) —— 代码审查工作流探索
 - [BiliCompact 完整复盘](https://twilightrain.pages.dev) —— 动机、设计、技术
