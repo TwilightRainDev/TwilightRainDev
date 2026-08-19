@@ -5,7 +5,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/TwilightRainDev)](https://github.com/TwilightRainDev)
 [![Blog](https://img.shields.io/badge/Blog-twilightrain.com-white)](https://twilightrain.com)
----
 
 #### 🎸 关于我
 
@@ -16,6 +15,8 @@
 - 🤔 最近在想：为什么我要演奏春日影
 - 📫 找到我：[Blog](https://twilightrain.pages.dev) · [Greasy Fork](https://greasyfork.org/zh-CN/users/1620234-twilightraindev) · [Bilibili uid](https://space.bilibili.com/326824)
 - 📚 写的书：[文青病十级](www.ciweimao.com/book/100496224)
+
+---
 
 #### 🛠️ 我写的东西
 
