@@ -3,8 +3,9 @@
 > 家里蹲的说，不是楠酿！
 
 [![GitHub followers](https://img.shields.io/github/followers/TwilightRainDev)](https://github.com/TwilightRainDev)
-[![Blog](https://img.shields.io/badge/Blog-twilightrain.pages.dev-blue)](https://twilightrain.pages.dev)
-
+<a href="[https://66ccff.blue/](https://twilightrain.pages.dev)">
+  <img src="https://img.shields.io/badge/∞-66ccff.blue-66ccff?style=flat-square&labelColor=66CCFF" alt="Homepage">
+</a>
 ---
 
 #### 🎸 关于我
