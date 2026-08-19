@@ -32,8 +32,6 @@
 
 #### 最近在写
 
-<img src="Oblivionis.png" alt="とがわ_さきこ" width="10%" align="right" hspace="15" vspace="10">
-
 - [三个 AI，各司其职，之间不允许对话](https://twilightrain.pages.dev) —— 代码审查工作流探索
 - [BiliCompact 完整复盘](https://twilightrain.pages.dev) —— 动机、设计、技术
 - [仿冒网站维权实录](https://twilightrain.pages.dev) —— 从发现到报案
@@ -41,5 +39,7 @@
 ---
 
 #### 一句
+
+<img src="Oblivionis.png" alt="とがわ_さきこ" width="10%" align="right" hspace="15" vspace="10">
 
 > *“过去软弱的小祥，已经死了，那我也要死吗？”——不，写代码吧。*
