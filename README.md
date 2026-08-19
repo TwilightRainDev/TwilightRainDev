@@ -32,7 +32,7 @@
 
 #### 最近在写
 
-<img src="Miku_die.png" alt="Miku!" width="4%" align="left" hspace="5" vspace="5">
+<img src="Miku_die.png" alt="Miku!" width="15%" align="left" hspace="5" vspace="5">
 
 - [三个 AI，各司其职，之间不允许对话](https://twilightrain.pages.dev) —— 代码审查工作流探索
 - [BiliCompact 完整复盘](https://twilightrain.pages.dev) —— 动机、设计、技术
