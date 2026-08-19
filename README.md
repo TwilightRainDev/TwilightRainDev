@@ -1,4 +1,8 @@
 ### 🌧️ TwilightRain
+<div align="center">
+  <!-- 1. 你的 GIF -->
+  <img src="miku.gif" alt="miku desunei" width="30%">
+</div>
 
 > 家里蹲的说，不是楠酿！
 
