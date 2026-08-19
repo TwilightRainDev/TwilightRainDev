@@ -3,7 +3,7 @@
 > 家里蹲的说，不是楠酿！
 
 [![GitHub followers](https://img.shields.io/github/followers/TwilightRainDev)](https://github.com/TwilightRainDev)
-[![Blogs](https://twilightrain.pages.dev)
+[![Blog](https://img.shields.io/badge/Blog-twilightrain.com-white)](https://twilightrain.com)
 ---
 
 #### 🎸 关于我
