@@ -5,7 +5,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/TwilightRainDev)](https://github.com/TwilightRainDev)
 [![Blog](https://img.shields.io/badge/Blog-twilightrain.com-white)](https://twilightrain.com)
-![](https://komarev.com/ghpvc/?username=TwilightRainDev&color=ffffff)
+![](https://komarev.com/ghpvc/?username=TwilightRainDev&color=000010)
 
 #### 关于我
 
