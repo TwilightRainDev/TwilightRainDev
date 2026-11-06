@@ -23,7 +23,7 @@
 
 | 项目 | 简介 | 技术 |
 |------|------|------|
-| [**BiliCompact**](https://greasyfork.org/scripts/585777)) | B站首页精简用户脚本，支持数量限制、智能过滤、评论屏蔽、收藏夹重命名 | JavaScript / Tampermonkey |
+| [**BiliCompact**](https://greasyfork.org/scripts/585777) | B站首页精简用户脚本，支持数量限制、智能过滤、评论屏蔽、收藏夹重命名 | JavaScript / Tampermonkey |
 | [**TimeTrack**](https://github.com/TwilightRainDev/TwilightRainTimeTrack) | 手机使用时间追踪，GitHub 式热力图，数据全本地 | Kotlin / Android |
 | [**TextTool**](https://github.com/TwilightRainDev/TwilightRainTextTool) | Windows 文本处理工具：行合并、文件拼接、中文截断修复 | C# / .NET 8 WinForms |
 | [**HowToAskQue**](https://github.com/TwilightRainDev/HowToAskQue) | 《提问的智慧》中文 2026 版 | Markdown |
